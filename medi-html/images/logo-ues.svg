@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logo UES Almoloya</title>
+  <desc id="desc">Logotipo vectorial de la Universidad Mexiquense del Bicentenario - UES Almoloya</desc>
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a5cff"/>
+      <stop offset="100%" stop-color="#ff4d6d"/>
+    </linearGradient>
+  </defs>
+  <rect rx="12" ry="12" width="400" height="100" fill="url(#g1)" />
+  <g font-family="Poppins, Arial, sans-serif" fill="#fff">
+    <text x="22" y="43" font-size="28" font-weight="700">UES</text>
+    <text x="22" y="72" font-size="16" font-weight="600">Almoloya de Alquisiras</text>
+    <circle cx="330" cy="50" r="18" fill="rgba(255,255,255,0.12)"/>
+    <text x="322" y="56" font-size="20" font-weight="800">A</text>
+  </g>
+</svg>

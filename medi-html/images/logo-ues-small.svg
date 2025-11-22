@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t s">
+  <title id="t">Logo UES Almoloya - pequeño</title>
+  <desc id="s">Versión pequeña del logo para navbar</desc>
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6a5cff" />
+      <stop offset="100%" stop-color="#ff4d6d" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="10" fill="url(#lg)" />
+  <text x="9" y="38" font-family="Poppins, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">UES</text>
+</svg>
